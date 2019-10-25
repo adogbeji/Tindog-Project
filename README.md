@@ -1,2 +1,1 @@
-# Tindog-Project
-This repository contains the HTML, CSS and Image files for my Tindog Project!
+Do you own a pet dog? If so, click the link above to check out the new dating app - 'Tindog' - and some of the awesome reviews so far. Tindog was designed to help your dog find their one and true soulmate!
